@@ -1,0 +1,15 @@
+{
+    "window": [{
+        "render_mode": "default",
+        "borderless":false,
+        "fullscreen":false
+        }],
+
+    "scene":[{
+        "render_fog":false,
+        "terrainwidth":16,
+        "enable_shaders":false,
+        "nickname":"Dimkarpenko"
+
+    }]
+}
